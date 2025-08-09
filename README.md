@@ -31,3 +31,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmoljadgilwar&show_icons=true&locale=en&layout=compact" alt="anmoljadgilwar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmoljadgilwar&" alt="anmoljadgilwar" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
