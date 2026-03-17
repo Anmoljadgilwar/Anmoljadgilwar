@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmoljadgilwar" alt="anmoljadgilwar" /></a> </p>
 
-- 🔭 I’m currently working on [Quick Visual](https://github.com/Anmoljadgilwar/QuickVisuals.git)
+- 🔭 I’m currently working on **Stable Coin**
 
 - 🌱 I’m currently learning **MERN, DSA**
 
-- 👯 I’m looking to collaborate on [CampusNotes](https://github.com/Anmoljadgilwar/CampusNotes.git)
+- 👯 I’m looking to collaborate for **Stable Coin Project**
 
 - 👨‍💻 All of my projects are available at [https://anmoljadgilwar.netlify.app](https://anmoljadgilwar.netlify.app)
 
