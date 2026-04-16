@@ -1,41 +1,117 @@
-<h1 align="center">Hi 👋, I'm Anmol Jadgilwar</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h1 align="center">Hey 👋, I'm Anmol</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN | Building Scalable Web Apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmoljadgilwar" alt="anmoljadgilwar" /></a> </p>
-
-- 🔭 I’m currently working on **Stable Coin**
-
-- 🌱 I’m currently learning **MERN, DSA**
-
-- 👯 I’m looking to collaborate for **Stable Coin Project**
-
-- 👨‍💻 All of my projects are available at [https://anmoljadgilwar.netlify.app](https://anmoljadgilwar.netlify.app)
-
-- 📝 Connect with on Linkedin [https://www.linkedin.com/in/anmol-jadgilwar77777/](https://www.linkedin.com/in/anmol-jadgilwar77777/)
-
-- 💬 Ask me about **React, Javascipt**
-
-- 📫 How to reach me **developer.anmol108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@anmol6286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anmol6286" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anmol-jadgilwar77777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmol-jadgilwar77777/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@a1analyst123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@a1analyst123" height="30" width="40" /></a>
-<a href="https://discord.gg/anmol22448888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anmol22448888" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/anmoljadgilwar">
+    <img src="https://komarev.com/ghpvc/?username=anmoljadgilwar&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmoljadgilwar&show_icons=true&locale=en&layout=compact" alt="anmoljadgilwar" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmoljadgilwar&" alt="anmoljadgilwar" /></p>
+* 🎓 BCA Graduate (2025)
+* 💼 Full-Stack Developer Intern @ Startup
+* 🚀 Currently building: **Productivity App**
+* 🌱 Learning: **Advanced MERN + DSA**
+* ⚡ Love building real-world scalable products
 
-###
+---
 
-<br clear="both">
+## 🌐 Portfolio & Contact
 
+* 🌍 Portfolio: https://anmoljadgilwar.netlify.app
+* 💼 LinkedIn: https://www.linkedin.com/in/anmol-jadgilwar77777/
+* 📧 Email: [developer.anmol108@gmail.com](mailto:developer.anmol108@gmail.com)
 
+---
 
-###
+## 🛠️ Tech Stack
+
+### 🧠 Programming Languages
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py" />
+
+### 🚀 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,java,js,ts" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📘 [Campus Notes](https://github.com/Anmoljadgilwar/CampusNotes)
+
+> MERN-based note sharing platform
+
+* 🔐 Authentication & role-based access
+* 🔍 Search, filter & preview notes
+* ⚡ Built with performance-first UI
+
+---
+
+### 🎨[ Quick Visuals ](https://github.com/Anmoljadgilwar/QuickVisuals)
+
+> AI Image Generation Platform
+
+* 🤖 Generate AI images instantly
+* 💳 Razorpay payment integration
+* ⚡ Fast & responsive UI
+
+---
+
+### [✅ Todo Manager](https://github.com/Anmoljadgilwar/Todo-List-App)
+
+> Minimal productivity app
+
+* 📱 Mobile-first design
+* 💾 LocalStorage persistence
+* ⚡ Lightweight & fast
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anmoljadgilwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anmoljadgilwar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmoljadgilwar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/@anmol6286"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/anmol-jadgilwar77777/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.hackerrank.com/@a1analyst123"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://discord.gg/anmol22448888"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+---
+
+⭐ *"Code. Build. Scale. Repeat."*
