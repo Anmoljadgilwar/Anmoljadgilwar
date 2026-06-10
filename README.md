@@ -13,7 +13,7 @@
 
 * 🎓 BCA Graduate (2025)
 * 💼 Full-Stack Developer Intern @ Startup
-* 🚀 Currently building: **Productivity App**
+* 🚀 Currently building: **Healthcare Platform**
 * 🌱 Learning: **Advanced MERN + DSA**
 * ⚡ Love building real-world scalable products
 
