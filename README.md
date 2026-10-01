@@ -59,6 +59,17 @@
 ---
 
 ## 🚀 Featured Projects
+  
+### [Organize Home](https://organize-home-git-vercel-deploy-druva1.vercel.app/)
+
+> Full-Stack E-commerce Platform 
+
+*  A secure, production-oriented e-commerce platform
+*  Featuring authentication, product and inventory management, secure payment verification
+*  Admin controls, image storage, and customer email notifications
+*  Implemented server-side validationwebhook idempotency and robust error handling following modern web security practices
+
+---
 
 ### 📘 [Campus Notes](https://github.com/Anmoljadgilwar/CampusNotes)
 
